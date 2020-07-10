@@ -10,10 +10,12 @@
 
 💗 I **love** *Scrum* and *clean code*.
 
+🏒 Some of my **hobbies** are calligraphy, baking, taking pictures, skating or videogames.
+
 👀 Visit my **[portfolio](https://www.laugeeme.com)**!
 
 ***
  ↪ I am __*currently looking for that job opportunity*__ that will make me grow professionally and personally. 
 
 ***
-**Visit my **[Linkedin](https://www.linkedin.com/in/laugeeme)** or **[Twitter](https://twitter.com/laugeeme)** to find out more about me!**
+**Visit my [Linkedin](https://www.linkedin.com/in/laugeeme) or [Twitter](https://twitter.com/laugeeme) to find out more about me!**

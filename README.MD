@@ -2,7 +2,7 @@
 
 🤙🏻 My name is Laura G., aka **laugeeme**. 
 
-👩🏻‍💻 I am a spanish ==Front-End Developer== 
+👩🏻‍💻 I am a spanish **Front-End Developer**
 
 🛠 The **technologies** I use most are JavaScript, React, Html5, Css3, Git, Sass, Gulp, npm, Bootstrap...
 
@@ -13,7 +13,7 @@
 👀 Visit my [portfolio](www.laugeeme.com)!
 
 ***
- I am ++currently looking for that job opportunity++ that will make me grow professionally and personally. 🔎
+ I am <u>currently looking for that job opportunity</u> that will make me grow professionally and personally. 🔎
 
 ***
 Visit my [Linkedin](www.linkedin.com/in/laugeeme) or [Twitter](https://twitter.com/laugeeme) to find out more about me!

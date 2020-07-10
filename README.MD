@@ -8,12 +8,12 @@
 
 📚 I continue my **training** with courses, katas, didactic games, tutorials and small projects.
 
-💗 I love *Scrum* and *clean code*.
+💗 I **love** *Scrum* and *clean code*.
 
 👀 Visit my [portfolio](www.laugeeme.com)!
 
 ***
- I am <u>currently looking for that job opportunity</u> that will make me grow professionally and personally. 🔎
+ ➡ I am <u>currently looking for that job opportunity</u> that will make me grow professionally and personally. 🔎
 
 ***
 Visit my [Linkedin](www.linkedin.com/in/laugeeme) or [Twitter](https://twitter.com/laugeeme) to find out more about me!

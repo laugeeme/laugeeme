@@ -4,7 +4,7 @@
 
 👩🏻‍💻 I am a spanish **Front-End Developer**
 
-🛠 The **technologies** I use most are JavaScript, React, Html5, Css3, Git, Sass, Gulp, npm, Bootstrap...
+🛠 I **build** with JavaScript, React, Html5, Css3, Git, Sass, Gulp, npm, Bootstrap...
 
 📚 I continue my **training** with courses, katas, didactic games, tutorials and small projects.
 
